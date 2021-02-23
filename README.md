@@ -31,7 +31,7 @@ The device consists of:
 
 
 ###### Device
-  Input image size for neural network is 128x96 px, then was used a rescaling layer for optymalzation. Convolution include a 3 different layers with mas pooling, the are concentate and flatten for first dense player with 512 neurons. The next step are 2 dense layers with 128 and 32 neurons. Strucutre of neural network was shown in jupyter notebook - custom_model.ipny. For transfer learning it was used mobilenetV3 - jupyter notebook transfer_learning.ipny.
+  Input image size for neural network is 128x96 px, then was used a rescaling layer for optymalzation. Convolution include a 3 different layers with mas pooling, the are concentate and flatten for first dense player with 512 neurons. The next step are 2 dense layers with 128 and 32 neurons. Strucutre of neural network was shown in jupyter notebook - Custom_model_training.ipnyb. For transfer learning it was used mobilenetV3 - jupyter notebook MobilenetV3_Model_Transfer_Learning.ipynb.
   
 
 ###### Training
